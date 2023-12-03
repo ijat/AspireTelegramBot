@@ -1,0 +1,21 @@
+{
+  "$schema": "http://json.schemastore.org/launchsettings.json",
+  "profiles": {
+    "http": {
+      "commandName": "Project",
+      "dotnetRunMessages": true,
+      "launchBrowser": true,
+      "applicationUrl": "http://localhost:15220",
+      "environmentVariables": {
+        "ASPNETCORE_ENVIRONMENT": "Development",
+        "DOTNET_ENVIRONMENT": "Development",
+        "DOTNET_DASHBOARD_OTLP_ENDPOINT_URL": "http://localhost:16112",
+        "TELEGRAM_API_HOST": "localhost",
+        "TELEGRAM_API_ID": "", // get from https://my.telegram.org/
+        "TELEGRAM_API_HASH": "", // get from https://my.telegram.org/
+        "TELEGRAM_BOT_TOKEN": "", // get from @BotFather
+        "GATEWAY_HOST": "host.docker.internal"
+      }
+    }
+  }
+}
