@@ -1,4 +1,4 @@
-# AspireTelegramBot: A Super (not really) High-Performance Microservices Approach using .NET Aspire 
+# AspireTelegramBot: A High-Performance Microservices Approach using .NET Aspire 
 
 [![.NET](https://github.com/ijat/AspireTelegramBot/actions/workflows/dotnet.yml/badge.svg?branch=master)](https://github.com/ijat/AspireTelegramBot/actions/workflows/dotnet.yml)
 
@@ -7,7 +7,6 @@
 </p>
 
 AspireTelegramBot is a microservices-based approach for high-performance, scalable and reliable Telegram bot development powered by .NET Aspire. Telegram bot developers may face performance issues when their bots experience high traffic once they gain millions of users. These developers must address these issues promptly to ensure that their bots continue functioning effectively. By upgrading the architecture from monolithic to microservices, not only do they get the benefit of high-performing bots, but their bots can scale in any way they want. For a while now, the classic approach to implementing microservices in .NET has been to use `docker-compose`. However, with the introduction of Aspire in .NET 8, implementing microservices has become more convenient and efficient because it comes with new features such as monitoring, telemetry, and more, making it easier to manage and build microservices from the ground up.
-
 
 ## So what is it actually?
 This project shows the microservices architecture using .NET Aspire, with some best (or bad) practices coding, and how to make it ultra-performant using the _hidden ninjutsu_ from the _**Hidden Leaf Village**_. Telegram bot developers can use this simple yet easy-to-deploy project and can start botting right away! Yes, I mean it like right now!!1
