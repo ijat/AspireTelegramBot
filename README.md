@@ -47,7 +47,7 @@ This is the problem: Once the requests reach above ~300 per second, the Telegram
 
 So, don't worry; that's why I'm here to help you prevent this from happening (based on real-life experience).
 
-Oh, wait! The only difference is the Telegram Bot API server container. Is it the only thing that makes it fast? The answer is YES.. 🙌 and no. Performance improvements in .NET greatly help in terms of performance.
+Oh, wait! The only difference is the Telegram Bot API server container. Is it the only thing that makes it fast? The answer is YES.. 🙌 and no. The performance improvements in .NET have greatly enhanced its overall performance.
 
 ## OK, I'm interested in creating my own bot. Help me plz! 🙇
 Sure! Follow these easy steps.
@@ -80,5 +80,10 @@ Sorry, for privacy reasons, I can't share the bots I'm talking about with you an
 https://www.youtube.com/watch?v=fGZx6bx2qUo
 
 ### Thank you for taking the time to read this message and a special thanks to those who have read it all the way through to this point!
+Cat gif for you
+
+![catkiss-cat](https://github.com/ijat/AspireTelegramBot/assets/6663845/764e7836-b8e3-48ee-aba0-df31636cf955)
+
+
 
 
