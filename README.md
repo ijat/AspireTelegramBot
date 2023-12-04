@@ -1,5 +1,7 @@
 # AspireTelegramBot: A Super (not really) High-Performance Microservices Approach using .NET Aspire 
 
+[![.NET](https://github.com/ijat/AspireTelegramBot/actions/workflows/dotnet.yml/badge.svg?branch=master)](https://github.com/ijat/AspireTelegramBot/actions/workflows/dotnet.yml)
+
 <p align="center">
   <img width="460" height="300" src="https://github.com/ijat/AspireTelegramBot/assets/6663845/1736c5f0-9539-44a6-a302-eeefb2073eaf">
 </p>
