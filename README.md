@@ -1,5 +1,7 @@
 # AspireTelegramBot: A High-Performance Microservices Approach using .NET Aspire 
 
+> This is a project submission for https://github.com/microsoft/hack-together-dotnet
+
 [![.NET](https://github.com/ijat/AspireTelegramBot/actions/workflows/dotnet.yml/badge.svg?branch=master)](https://github.com/ijat/AspireTelegramBot/actions/workflows/dotnet.yml)
 
 <p align="center">
